@@ -71,7 +71,7 @@ export default function TextForm(props) {
             className="btn btn-primary mx-0 my-3"
             onClick={handleCpClick}
           >
-            Copt Text
+            Copy Text
           </button>
           <button
             disabled={text.length === 0}
